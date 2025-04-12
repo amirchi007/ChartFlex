@@ -1,0 +1,1 @@
+package com.amir.steelsenseandroidtask.domainimport com.amir.steelsenseandroidtask.domain.model.ChartEntryinterface ChartRepository {    fun getAllChartData(): List<List<ChartEntry>>}

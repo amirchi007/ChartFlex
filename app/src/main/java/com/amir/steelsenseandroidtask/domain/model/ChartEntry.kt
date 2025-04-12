@@ -1,0 +1,1 @@
+package com.amir.steelsenseandroidtask.domain.modeldata class ChartEntry(    val time: Float,    val value: Float)
