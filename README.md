@@ -37,4 +37,4 @@
 Currently not available via Maven/Gradle. Clone the repo and import the components manually into your Compose project:
 
 ```bash
-git clone https://github.com/your-username/LineScope.git
+git clone https://github.com/amirchi007/ChartFlex.git
